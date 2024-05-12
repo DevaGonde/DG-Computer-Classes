@@ -1,0 +1,81 @@
+@charset "UTF-8";
+
+@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@500&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Slab&family=Style+Script&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Style+Script&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Madimi+One&display=swap');
+
+/* font-family: 'Roboto Slab', serif;
+font-family: 'Style Script', cursive; */
+
+*{
+    color: white;
+   font-family: "Madimi One", sans-serif;
+}
+.black{
+	color:black;
+}
+
+.upper{
+    display: flex;
+    margin: 15px;
+    
+}
+
+.imgg{
+    box-shadow: 12px 12px 12px 12px rgb(95, 74, 74);
+    border-radius: 372px;
+}
+
+p{
+    margin: 0vh 5vw 5vh 5vw;
+   font-family: "Madimi One", sans-serif;
+
+}
+
+h1{
+    text-align: center;
+    margin-top: 5vh;
+    color:#f33f3f;
+    font-weight: 990;
+    letter-spacing: 5px;
+}
+
+.subhead{
+    text-align: left;
+    margin: 0;
+}
+
+h3, h5{
+    margin-left: 4vw;
+}
+
+ul ,p ul li{
+    margin-left: 5vw;
+   font-family: "Madimi One", sans-serif;
+
+}
+
+hr{
+    margin-top: 2px;
+}
+
+#teamimg{
+    margin-left: 4px;
+    border: solid white;
+}
+
+
+/**
+
+*The DG Computer Classes project, including all associated code and materials, has been developed by Devendra R. Gonde.
+*All rights are reserved for this project.
+*This comprehensive project aims to revolutionize computer education by providing high-quality learning resources and
+ interactive experiences to students at DG Computer Classes. It encompasses a range of educational materials,
+ including [describe the types of materials, such as lesson plans, tutorials, software tools, etc.], designed to
+ empower learners with the knowledge and skills needed to excel in the field of computer science.
+*For inquiries or support related to the DG Computer Classes project, please contact:
+*Name: Devendra R. Gonde
+*Email: devendragonde1221@gmail.com
+
+*/

@@ -1,0 +1,64 @@
+@charset "UTF-8";
+
+@import
+	url('https://fonts.googleapis.com/css2?family=Roboto+Slab&family=Style+Script&display=swap')
+	;
+/* font-family: 'Roboto Slab', serif;
+font-family: 'Style Script', cursive; */
+.card {
+	height: 45vh;
+	justify-content: space-evenly;
+}
+
+.item {
+	background: url(/img/card\ bg.jpg);
+	box-shadow: 10px 10px 20px rgb(6, 6, 6);
+	border-radius: 10%;
+}
+
+p {
+	margin-top: 3vh;
+	text-decoration: none;
+	font-family: 'Style Script', cursive;
+}
+
+p:hover {
+	transition-duration: 0.5s;
+	color: red;
+	/* font-weight: bolder; */
+}
+
+.item-img {
+	width: 25vw;
+	height: 30vh;
+	border-radius: 10%;
+}
+
+.item-img:hover {
+	transform: scale(1.1);
+	transition-duration: 0.8s;
+}
+
+.container {
+	
+}
+
+a {
+	color: white;
+	text-decoration: none;
+}
+
+
+/**
+
+*The DG Computer Classes project, including all associated code and materials, has been developed by Devendra R. Gonde.
+*All rights are reserved for this project.
+*This comprehensive project aims to revolutionize computer education by providing high-quality learning resources and
+ interactive experiences to students at DG Computer Classes. It encompasses a range of educational materials,
+ including [describe the types of materials, such as lesson plans, tutorials, software tools, etc.], designed to
+ empower learners with the knowledge and skills needed to excel in the field of computer science.
+*For inquiries or support related to the DG Computer Classes project, please contact:
+*Name: Devendra R. Gonde
+*Email: devendragonde1221@gmail.com
+
+*/

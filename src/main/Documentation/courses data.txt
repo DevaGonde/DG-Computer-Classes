@@ -1,0 +1,390 @@
+INSERT INTO courses (course_name, course_description, topics_covered, future_outlook, mentor_name, mentor_description, mentor_education, mentor_experience, mentor_projects, mentor_expertise, course_imgname, mentor_imgname)
+VALUES (
+    'MS-CIT (Maharashtra State Certificate in Information Technology)',
+    'The MS-CIT course provides fundamental knowledge and skills in information technology. It covers essential topics such as computer fundamentals, operating systems, office productivity software, and internet basics.',
+    '<li>Introduction to computer fundamentals</li>
+    <li>Operating system concepts</li>
+    <li>Using office productivity software (MS Office)</li>
+    <li>Internet and email basics</li>',
+    '<li>Enhanced computer literacy and proficiency</li>
+                <li>Preparation for advanced IT certifications</li>
+                <li>Employment opportunities in various industries</li>
+                <li>Foundation for further education in IT</li>',
+    'Mr. Ashish Sonavane',
+    'Mr. Ashish Sonavane is an experienced IT professional with expertise in information technology training. He has a passion for teaching and guiding students in their IT journey.',
+    'Mr. Sonavane holds a Master''s degree in Computer Science and has received certifications in various IT courses, including MS-CIT.',
+    'With over fifteen years of experience, Mr. Sonavane has trained thousands of students in MS-CIT and other IT courses. He has worked as a consultant for IT companies and educational institutions.',
+    '<li class="cursive text-none">Developed customized MS-CIT training modules</li>
+                    <li class="cursive text-none">Conducted workshops for students and professionals</li>
+                    <li class="cursive text-none">Provided guidance for IT career paths</li>',
+    '<li class="cursive text-none">Computer fundamentals and operating systems</li>
+                    <li class="cursive text-none">MS Office applications and internet basics</li>
+                    <li class="cursive text-none">Effective teaching and mentoring techniques</li>',
+    'mscit.jpg',
+    'male mento 4.jpg'
+);
+
+INSERT INTO courses (course_name, course_description, topics_covered, future_outlook, mentor_name, mentor_description, mentor_education, mentor_experience, mentor_projects, mentor_expertise, course_imgname, mentor_imgname)
+VALUES (
+    'CCC (Course in Computer Concept)',
+    'The CCC course provides fundamental knowledge of computers and their applications. It covers topics such as computer hardware, software, networking, and basic programming concepts.',
+    '<li>Introduction to computer hardware and software</li>
+    <li>Understanding operating systems and applications</li>
+    <li>Basics of computer networking and internet</li>
+    <li>Introduction to programming languages</li>',
+    '<li>Entry-level jobs in IT support and administration</li>
+    <li>Foundation for further studies in computer science</li>
+    <li>Enhanced digital literacy and proficiency</li>',
+    'Mr. Kiran Chorghe',
+    'Mr. Kiran Chorghe is a computer science expert with a passion for teaching. He holds a Bachelor''s degree in Computer Science and has been teaching CCC courses for over five years.',
+    'Mr. Chorghe completed his Bachelor''s degree in Computer Science from a renowned university, specializing in software development and computer systems.',
+    'With extensive experience in the IT industry, Mr. Chorghe has worked as a software developer, system administrator, and IT trainer, gaining valuable insights into various aspects of computer science.',
+    '<li class="cursive text-none">Developed interactive learning modules for CCC</li>
+    <li class="cursive text-none">Conducted workshops on computer literacy in rural areas</li>
+    <li class="cursive text-none">Designed curriculum for beginner-level computer courses</li>',
+    '<li class="cursive text-none">Computer Hardware and Software</li>
+    <li class="cursive text-none">Operating Systems and Applications</li>
+    <li class="cursive text-none">Computer Networking and Basics of Programming</li>',
+    'ccc.jpg',
+    'male-mentor-2.jpg'
+);
+
+INSERT INTO courses (course_name, course_description, topics_covered, future_outlook, mentor_name, mentor_description, mentor_education, mentor_experience, mentor_projects, mentor_expertise, course_imgname, mentor_imgname)
+VALUES (
+    'MS-Office',
+    'The MS-Office course provides comprehensive training on the Microsoft Office suite, including Word, Excel, PowerPoint, and Outlook. Students will learn essential skills for creating documents, spreadsheets, presentations, and managing emails.',
+    '<li>Introduction to Microsoft Office applications</li>
+    <li>Word processing and document formatting in MS Word</li>
+    <li>Data analysis and spreadsheet management in MS Excel</li>
+    <li>Creating presentations with MS PowerPoint</li>
+    <li>Email management and communication with MS Outlook</li>',
+    '<li>Enhanced productivity and efficiency in office tasks</li>
+    <li>Advanced data analysis and reporting skills</li>
+    <li>Improved communication and presentation abilities</li>
+    <li>Employment opportunities in various industries</li>',
+    'Mr. Adarsh Patil',
+    'Mr. Adarsh Patil is a certified Microsoft Office Specialist (MOS) with extensive experience in training professionals on MS Office applications. He is passionate about helping individuals enhance their productivity and efficiency through MS Office skills.',
+    'Mr. Patil holds a Bachelor''s degree in Computer Science and has completed advanced certifications in Microsoft Office applications.',
+    'With over ten years of experience, Mr. Patil has conducted numerous MS Office training sessions for corporate clients and educational institutions. He has helped thousands of individuals become proficient in using MS Office tools.',
+    '<li class="cursive text-none">Developed customized MS Office training modules</li>
+    <li class="cursive text-none">Conducted workshops for professionals in various industries</li>
+    <li class="cursive text-none">Provided consulting services for MS Office implementation</li>',
+    '<li class="cursive text-none">Microsoft Word, Excel, PowerPoint, Outlook</li>
+    <li class="cursive text-none">Advanced data analysis and reporting techniques</li>
+    <li class="cursive text-none">Customized solutions for specific business needs</li>',
+    'msoffices.jpg',
+    'male-mentor-3.jpg'
+);
+
+INSERT INTO courses (course_name, course_description, topics_covered, future_outlook, mentor_name, mentor_description, mentor_education, mentor_experience, mentor_projects, mentor_expertise, course_imgname, mentor_imgname)
+VALUES (
+    'Advanced Excel',
+    'The Advanced Excel course covers advanced features and functionalities of Microsoft Excel, enabling participants to perform complex data analysis, create dynamic reports, and automate tasks using Excel macros.',
+    '<li>Advanced formulas and functions</li>
+    <li>Data analysis tools and techniques</li>
+    <li>Pivot tables and pivot charts</li>
+    <li>Excel VBA programming for automation</li>',
+    '<li>Career opportunities in finance, data analysis, and business intelligence</li>
+    <li>Efficient data management and reporting</li>
+    <li>Automation of repetitive tasks for increased productivity</li>',
+    'Mr. Aditya Khanderao',
+    'Mr. Aditya Khanderao is an expert in Microsoft Excel with extensive experience in data analysis and reporting. He holds a Master''s degree in Business Administration and has conducted numerous training sessions on Advanced Excel.',
+    'Mr. Khanderao holds a Master''s degree in Business Administration from a prestigious institution, specializing in finance and data analytics.',
+    'With over 10 years of experience, Mr. Khanderao has worked in various industries, including finance, consulting, and education, utilizing Excel for data analysis, financial modeling, and reporting.',
+    '<li class="cursive text-none">Created dynamic dashboards for financial performance analysis</li>
+    <li class="cursive text-none">Developed Excel-based tools for budgeting and forecasting</li>
+    <li class="cursive text-none">Automated data entry and reporting tasks using Excel macros</li>',
+    '<li class="cursive text-none">Advanced Excel Formulas and Functions</li>
+    <li class="cursive text-none">Data Analysis and Visualization</li>
+    <li class="cursive text-none">Excel VBA Programming</li>',
+    'adv excel.png',
+    'male-mentor-1.jpg'
+);
+
+INSERT INTO courses (course_name, course_description, topics_covered, future_outlook, mentor_name, mentor_description, mentor_education, mentor_experience, mentor_projects, mentor_expertise, course_imgname, mentor_imgname)
+VALUES (
+    'C Programming',
+    'The C Programming course provides a comprehensive introduction to the C programming language, covering fundamental concepts and practical applications. Participants will learn to write efficient and scalable code using C.',
+    '<li>Fundamental concepts of C programming</li>
+    <li>Data types, variables, and operators</li>
+    <li>Control structures and functions</li>',
+    '<li>Career opportunities in software development</li>
+    <li>Understanding of low-level programming concepts</li>
+    <li>Foundation for learning other programming languages</li>',
+    'Miss Pratiksha Dixit',
+    'Miss Pratiksha Dixit is an experienced software engineer specializing in C programming. She holds a Bachelor''s degree in Computer Science and has extensive experience in developing scalable and efficient software solutions using C.',
+    'Miss Dixit holds a Bachelor''s degree in Computer Science, providing her with a strong foundation in programming and software development.',
+    'With over 5 years of experience, Miss Dixit has worked on various projects involving C programming, including system-level programming and embedded systems development.',
+    '<li class="cursive text-none">Developed efficient algorithms for data processing and manipulation</li>
+    <li class="cursive text-none">Implemented system-level software for embedded devices</li>
+    <li class="cursive text-none">Contributed to open-source projects involving C programming</li>',
+    '<li class="cursive text-none">C Programming</li>
+    <li class="cursive text-none">Data Structures and Algorithms</li>
+    <li class="cursive text-none">Embedded Systems Development</li>',
+    'c Lang img.png',
+    'female mentor 5.jpg'
+);
+
+INSERT INTO courses (course_name, course_description, topics_covered, future_outlook, mentor_name, mentor_description, mentor_education, mentor_experience, mentor_projects, mentor_expertise, course_imgname, mentor_imgname)
+VALUES (
+    'C++ Programming',
+    'The C++ Programming course provides a comprehensive introduction to the C++ programming language, covering object-oriented programming concepts and practical applications. Participants will learn to develop robust and efficient software using C++.',
+    '<li>Fundamental concepts of C++ programming</li>
+    <li>Object-oriented programming principles</li>
+    <li>Class inheritance, polymorphism, and encapsulation</li>',
+    '<li>Advanced software development opportunities</li>
+    <li>Understanding of modern software engineering practices</li>
+    <li>Foundation for learning other object-oriented programming languages</li>',
+    'Miss Trisha Deshmookh',
+    'Miss Trisha Deshmookh is an experienced software engineer specializing in C++ programming. She holds a Master''s degree in Computer Science and has extensive experience in developing scalable and efficient software solutions using C++.',
+    'Miss Deshmookh holds a Master''s degree in Computer Science, providing her with advanced knowledge of programming and software development.',
+    'With over 7 years of experience, Miss Deshmookh has worked on various projects involving C++ programming, including game development, system-level programming, and software engineering.',
+    '<li class="cursive text-none">Developed high-performance game engines using C++</li>
+    <li class="cursive text-none">Implemented complex algorithms for data analysis and processing</li>
+    <li class="cursive text-none">Contributed to open-source projects involving C++ programming</li>',
+    '<li class="cursive text-none">C++ Programming</li>
+    <li class="cursive text-none">Game Development</li>
+    <li class="cursive text-none">Software Engineering</li>',
+    'c++.jpg',
+    'female mentor 6.jpg'
+);
+
+INSERT INTO courses (course_name, course_description, topics_covered, future_outlook, mentor_name, mentor_description, mentor_education, mentor_experience, mentor_projects, mentor_expertise, course_imgname, mentor_imgname)
+VALUES (
+    'Python Programming',
+    'The Python Programming course introduces participants to the Python programming language, covering essential concepts and practical applications. Participants will learn to develop software applications using Python.',
+    '<li>Introduction to Python syntax and semantics</li>
+    <li>Data structures and algorithms in Python</li>
+    <li>Developing web applications with Python frameworks like Django or Flask</li>',
+    '<li>Career opportunities in data science, machine learning, and artificial intelligence</li>
+    <li>Automation of repetitive tasks using Python scripting</li>
+    <li>Building scalable web applications and APIs</li>',
+    'Miss Rashmika Tambe',
+    'Miss Rashmika Tambe is an experienced Python developer with a passion for teaching. She holds a Bachelor''s degree in Computer Science and has extensive experience in developing various applications using Python.',
+    'Miss Tambe holds a Bachelor''s degree in Computer Science from a reputable university, providing her with a strong foundation in computer programming and software development.',
+    'With over 5 years of experience, Miss Tambe has worked on various projects involving Python programming, including web development, data analysis, and automation.',
+    '<li class="cursive text-none">Developed web applications using Django framework</li>
+    <li class="cursive text-none">Implemented machine learning algorithms for data analysis</li>
+    <li class="cursive text-none">Automated business processes using Python scripts</li>',
+    '<li class="cursive text-none">Python Programming</li>
+    <li class="cursive text-none">Web Development</li>
+    <li class="cursive text-none">Data Analysis</li>',
+    'python.jpg',
+    'female mentor 8.jpg'
+);
+
+INSERT INTO courses (course_name, course_description, topics_covered, future_outlook, mentor_name, mentor_description, mentor_education, mentor_experience, mentor_projects, mentor_expertise, course_imgname, mentor_imgname)
+VALUES (
+    'Java Programming',
+    'The Java Programming course introduces participants to the Java programming language, covering essential concepts and practical applications. Participants will learn to develop software applications using Java.',
+    '<li>Fundamental concepts of Java programming</li>
+    <li>Object-oriented programming principles</li>
+    <li>Developing GUI applications with Java Swing</li>',
+    '<li>Career opportunities in software development</li>
+    <li>Understanding of modern software development practices</li>
+    <li>Foundation for learning other programming languages</li>',
+    'Miss Gautami Patil',
+    'Miss Gautami Patil is an experienced Java developer with a passion for teaching. She holds a Bachelor''s degree in Computer Science and has extensive experience in developing enterprise-level Java applications.',
+    'Miss Patil holds a Bachelor''s degree in Computer Science from a reputable university, providing her with a strong foundation in computer programming and software development.',
+    'With over 5 years of experience, Miss Patil has worked on various projects involving Java programming, including web development, database management, and software architecture design.',
+    '<li class="cursive text-none">Developed scalable web applications using Java EE</li>
+    <li class="cursive text-none">Implemented RESTful APIs for client-server communication</li>
+    <li class="cursive text-none">Contributed to open-source projects involving Java development</li>',
+    '<li class="cursive text-none">Java Programming</li>
+    <li class="cursive text-none">Web Development</li>
+    <li class="cursive text-none">Database Management</li>',
+    'Java.jpg',
+    'female mentor 7.jpg'
+);
+
+INSERT INTO courses (course_name, course_description, topics_covered, future_outlook, mentor_name, mentor_description, mentor_education, mentor_experience, mentor_projects, mentor_expertise, course_imgname, mentor_imgname)
+VALUES (
+    'Quick Tally',
+    'The Quick Tally course provides a fast-paced learning experience in Tally ERP 9, focusing on essential accounting principles and practical skills. Participants will learn to efficiently manage accounting tasks using Tally software.',
+    '<li>Introduction to Tally ERP 9</li>
+    <li>Basic and advanced accounting functions</li>
+    <li>Generating reports and analyzing financial data</li>',
+    '<li>Employment opportunities in accounting firms</li>
+    <li>Enhanced efficiency in financial management</li>
+    <li>Ability to handle accounting tasks independently</li>',
+    'Miss Sarika Kate',
+    'Miss Sarika Kate is an experienced accountant with expertise in Tally ERP 9. She has a Bachelor''s degree in Computer Science and extensive experience in managing finances for various businesses.',
+    'Miss Kate holds a Bachelor''s degree in Computer Science, providing a strong foundation in core computer science concepts and programming languages.',
+    'With over 5 years of experience, Miss Kate has worked with small and medium-sized businesses, helping them streamline their accounting processes and achieve financial stability.',
+    '<li class="cursive text-none">Implemented Tally ERP 9 for a manufacturing company, improving efficiency and accuracy in financial reporting</li>
+    <li class="cursive text-none">Provided training to accounting staff on Tally software, resulting in increased productivity and reduced errors</li>
+    <li class="cursive text-none">Assisted in tax filing and compliance for various clients, ensuring timely and accurate submissions</li>',
+    '<li class="cursive text-none">Tally ERP 9</li>
+    <li class="cursive text-none">Financial Accounting</li>
+    <li class="cursive text-none">Taxation</li>',
+    'QUIK_TALLY.jpg',
+    'female mentor 3.jpg'
+);
+
+INSERT INTO courses (course_name, course_description, topics_covered, future_outlook, mentor_name, mentor_description, mentor_education, mentor_experience, mentor_projects, mentor_expertise, course_imgname, mentor_imgname)
+VALUES (
+    'Smart Tally',
+    'The Smart Tally course introduces advanced techniques in Tally ERP 9, focusing on automation and optimization of accounting processes. Participants will learn to leverage Tally''s smart features to enhance productivity and accuracy.',
+    '<li>Advanced accounting functions in Tally ERP 9</li>
+    <li>Automation of repetitive tasks</li>
+    <li>Integration with other business software</li>',
+    '<li>Career opportunities in accounting and finance</li>
+    <li>Efficient management of large-scale financial data</li>
+    <li>Adaptation to technological advancements in accounting</li>',
+    'Miss Sapna Londhe',
+    'Miss Sapna Londhe is an experienced accountant specializing in Tally ERP 9. She holds a Bachelor''s degree in Accounting and has extensive experience in implementing Tally solutions for various businesses.',
+    'Miss Londhe holds a Bachelor''s degree in Accounting, providing her with a strong foundation in financial principles and practices.',
+    'With over 8 years of experience, Miss Londhe has successfully implemented Tally ERP 9 for small and medium-sized enterprises, streamlining their accounting processes and improving efficiency.',
+    '<li class="cursive text-none">Implemented customized Tally solutions for clients, tailored to their specific business needs</li>
+    <li class="cursive text-none">Provided training and support to accounting teams, ensuring smooth transition to Tally ERP 9</li>
+    <li class="cursive text-none">Developed automated reporting systems, reducing manual errors and saving time</li>',
+    '<li class="cursive text-none">Tally ERP 9</li>
+    <li class="cursive text-none">Financial Analysis</li>
+    <li class="cursive text-none">Business Process Optimization</li>',
+    'Smarttally.jpg',
+    'female mentor 4.jpg'
+);
+
+INSERT INTO courses (course_name, course_description, topics_covered, future_outlook, mentor_name, mentor_description, mentor_education, mentor_experience, mentor_projects, mentor_expertise, course_imgname, mentor_imgname)
+VALUES (
+    'Professional Tally',
+    'Professional Tally course is designed to provide students with advanced skills in accounting and Tally ERP 9. This course covers topics such as advanced financial accounting, taxation, and audit techniques using Tally software.',
+    '<li>Advanced financial accounting principles</li>
+    <li>Taxation and audit techniques</li>
+    <li>Practical applications of Tally ERP 9</li>',
+    '<li>Work as a senior accountant or auditor</li>
+    <li>Lead accounting teams in organizations</li>
+    <li>Provide consulting services on financial management</li>',
+    'Miss Gauri Bombale',
+    'Miss Gauri Bombale is an experienced accountant with expertise in Tally ERP 9. She has a Bachelor''s degree in Computer Science and extensive experience in managing finances for various businesses.',
+    'Miss Bombale holds a Bachelor''s degree in Computer Science, providing a strong foundation in core computer science concepts and programming languages.',
+    'With over 5 years of experience, Miss Bombale has worked with small and medium-sized businesses, helping them streamline their accounting processes and achieve financial stability.',
+    '<li class="cursive text-none">Implemented Tally ERP 9 for a manufacturing company, improving efficiency and accuracy in financial reporting</li>
+    <li class="cursive text-none">Provided training to accounting staff on Tally software, resulting in increased productivity and reduced errors</li>
+    <li class="cursive text-none">Assisted in tax filing and compliance for various clients, ensuring timely and accurate submissions</li>',
+    '<li class="cursive text-none">Tally ERP 9</li>
+    <li class="cursive text-none">Financial Accounting</li>
+    <li class="cursive text-none">Taxation</li>',
+    'professional_tally.jpg',
+    'female_mentor_2.jpg'
+);
+
+INSERT INTO courses (course_name, course_description, topics_covered, future_outlook, mentor_name, mentor_description, mentor_education, mentor_experience, mentor_projects, mentor_expertise, course_imgname, mentor_imgname)
+VALUES (
+    'Diploma Tally',
+    'Diploma in Tally is designed to provide students with a comprehensive understanding of accounting principles and Tally software. This course covers topics such as financial accounting, inventory management, and taxation using Tally ERP 9.',
+    '<li>Learn financial accounting basics</li>
+    <li>Master inventory management techniques</li>
+    <li>Understand taxation principles</li>',
+    '<li>Work as an accountant or bookkeeper</li>
+    <li>Manage finances for businesses</li>
+    <li>Prepare financial reports and statements</li>',
+    'Miss Ashwini Pawar',
+    'Miss Ashwini Pawar is an experienced accountant with expertise in Tally ERP 9. She has a Bachelor''s degree in Computer Science and extensive experience in managing finances for various businesses.',
+    'Miss Pawar holds a Bachelor''s degree in Computer Science, providing a strong foundation in core computer science concepts and programming languages.',
+    'With over 5 years of experience, Miss Pawar has worked with small and medium-sized businesses, helping them streamline their accounting processes and achieve financial stability.',
+    '<li class="cursive text-none">Implemented Tally ERP 9 for a manufacturing company, improving efficiency and accuracy in financial reporting</li>
+    <li class="cursive text-none">Provided training to accounting staff on Tally software, resulting in increased productivity and reduced errors</li>
+    <li class="cursive text-none">Assisted in tax filing and compliance for various clients, ensuring timely and accurate submissions</li>',
+    '<li class="cursive text-none">Tally ERP 9</li>
+    <li class="cursive text-none">Financial Accounting</li>
+    <li class="cursive text-none">Taxation</li>',
+    'diploma_tally.jpg',
+    'female_mentor_1.jpg'
+);
+
+INSERT INTO courses (course_name, course_description, topics_covered, future_outlook, mentor_name, mentor_description, mentor_education, mentor_experience, mentor_projects, mentor_expertise, course_imgname, mentor_imgname)
+VALUES (
+    'Photoshop',
+    'Photoshop is a powerful image editing software used by photographers, designers, and artists worldwide. This course covers essential tools and techniques for creating and manipulating images.',
+    '<li>Learn image retouching and enhancement</li>
+    <li>Explore digital painting and illustration</li>
+    <li>Create stunning visual compositions</li>',
+    '<li>Work as a graphic designer or digital artist</li>
+    <li>Create artwork for advertising and marketing</li>
+    <li>Freelance or start your own design business</li>',
+    'Mr. Satvik Davari',
+    'Mr. Satvik Davari is an experienced graphic designer specializing in Photoshop. With a keen eye for detail and creativity, he has successfully completed numerous projects ranging from photo editing to digital artwork.',
+    'Mr. Davari holds a Bachelor''s degree in Visual Arts from ABC University.',
+    'With over 8 years of professional experience, Mr. Davari has worked with various clients and agencies, delivering high-quality designs that meet client expectations.',
+    '<li class="cursive text-none">Designed eye-catching posters for events and promotions</li>
+    <li class="cursive text-none">Created stunning digital illustrations for online campaigns</li>
+    <li class="cursive text-none">Provided photo retouching services for fashion magazines</li>',
+    '<li class="cursive text-none">Image editing and manipulation</li>
+    <li class="cursive text-none">Digital painting and illustration</li>
+    <li class="cursive text-none">Typography and graphic design</li>',
+    'photoshop.png',
+    'male_mento_7.jpg'
+);
+
+INSERT INTO courses (course_name, course_description, topics_covered, future_outlook, mentor_name, mentor_description, mentor_education, mentor_experience, mentor_projects, mentor_expertise, course_imgname, mentor_imgname)
+VALUES (
+    'Autocad',
+    'Autocad is a powerful drafting and designing software used in architecture, engineering, and construction. Covers drawing tools, commands, and techniques for creating precise 2D and 3D designs.',
+    '<li>Create and edit geometric shapes</li>
+    <li>Explore advanced features like layers, blocks, and dimensions</li>
+    <li>Understand 3D modeling</li>',
+    '<li>Opportunities in architecture, engineering, construction industries</li>
+    <li>Gain practical skills for creating technical drawings and blueprints</li>
+    <li>Enhance your portfolio with professional Autocad designs</li>',
+    'Mr. Rohit Chaudhari',
+    'Mr. Rohit Chaudhari is a seasoned professional with over 10 years of experience in using Autocad for architectural and engineering design projects. He specializes in 2D drafting and 3D modeling, and has successfully completed numerous projects for clients worldwide.',
+    'Mr. Chaudhari holds a Bachelor''s degree in Civil Engineering from XYZ University.',
+    'With extensive hands-on experience in Autocad, Mr. Chaudhari has worked on a wide range of projects, including residential and commercial building designs, structural detailing, and interior modeling.',
+    '<li class="cursive text-none">Designed and implemented floor plans for residential complexes</li>
+    <li class="cursive text-none">Developed detailed structural drawings for commercial buildings</li>
+    <li class="cursive text-none">Created 3D models for interior design projects</li>',
+    '<li class="cursive text-none">2D drafting and drawing</li>
+    <li class="cursive text-none">3D modeling and rendering</li>
+    <li class="cursive text-none">Architectural design and planning</li>',
+    'autocad.jpg',
+    'male_mento_5.jpg'
+);
+
+INSERT INTO courses (course_name, course_description, topics_covered, future_outlook, mentor_name, mentor_description, mentor_education, mentor_experience, mentor_projects, mentor_expertise, course_imgname, mentor_imgname)
+VALUES (
+    'Coral Draw',
+    'Coral Draw is a graphic design software used for creating illustrations, logos, and artworks. This course introduces tools, techniques, and features of Coral Draw for digital design.',
+    '<li>Learn drawing tools and editing functions</li>
+    <li>Explore features like layers, effects, and typography</li>
+    <li>Create designs for print and digital media</li>',
+    '<li>Unlock opportunities in graphic design and branding</li>
+    <li>Develop skills for designing logos and posters</li>
+    <li>Build a professional portfolio with creative designs</li>',
+    'Mr. Mohit Khedkar',
+    'Mr. Mohit Khedkar is a graphic designer with experience in Coral Draw. He specializes in creating illustrations, logos, and visual identities.',
+    'Mr. Khedkar holds a Bachelor''s degree in Visual Communication.',
+    'With a passion for design, Mr. Khedkar has worked on branding and packaging projects.',
+    '<li class="cursive text-none">Designed logos and branding materials</li>
+    <li class="cursive text-none">Created illustrations for books and posters</li>
+    <li class="cursive text-none">Developed visually appealing banners and advertisements</li>',
+    '<li class="cursive text-none">Logo Design</li>
+    <li class="cursive text-none">Illustration</li>
+    <li class="cursive text-none">Typography</li>',
+    'coral_draw.jpg',
+    'male_mento_6.jpg'
+);
+
+INSERT INTO courses (course_name, course_description, topics_covered, future_outlook, mentor_name, mentor_description, mentor_education, mentor_experience, mentor_projects, mentor_expertise, course_imgname, mentor_imgname)
+VALUES (
+    'Desktop Publishing',
+    'Desktop publishing involves using specialized software to create visual designs for print or digital media. This course covers essential tools and techniques for creating professional-quality layouts and documents.',
+    '<li>Learn layout design principles</li>
+    <li>Explore typography and color theory</li>
+    <li>Create and edit images and graphics</li>',
+    '<li>Work in advertising agencies or publishing houses</li>
+    <li>Create marketing materials like brochures and flyers</li>
+    <li>Freelance as a graphic designer or layout artist</li>',
+    'Mr. Akshay Date',
+    'Mr. Akshay Date is a seasoned graphic designer with expertise in desktop publishing. He has over 10 years of experience working on various print and digital media projects, including magazine layouts, book covers, and promotional materials.',
+    'Mr. Date holds a Bachelor''s degree in Graphic Design from XYZ University.',
+    'With extensive hands-on experience in desktop publishing software like Adobe InDesign and Illustrator, Mr. Date has delivered high-quality designs that meet client specifications and deadlines.',
+    '<li class="cursive text-none">Designed magazine layouts for leading publications</li>
+    <li class="cursive text-none">Created book covers for best-selling authors</li>
+    <li class="cursive text-none">Developed marketing collateral for corporate clients</li>',
+    '<li class="cursive text-none">Layout design and composition</li>
+    <li class="cursive text-none">Typography and color theory</li>
+    <li class="cursive text-none">Image editing and manipulation</li>',
+    'desktop.jpg',
+    'male_mento_7.jpg'
+);

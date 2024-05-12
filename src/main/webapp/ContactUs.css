@@ -1,0 +1,170 @@
+@charset "UTF-8";
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Slab&family=Style+Script&display=swap');
+/* font-family: 'Roboto Slab', serif;
+font-family: 'Style Script', cursive; */
+.contact-heading {
+	background-image: url(img/contact-heading.jpg);
+}
+
+.page-heading {
+	padding: 210px 0px 130px 0px;
+	text-align: center;
+	background-position: center center;
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+
+.page-heading .text-content h4 {
+	color: #f33f3f;
+	font-size: 22px;
+	text-transform: uppercase;
+	font-weight: 700;
+	margin-bottom: 15px;
+    font-weight: bolder;
+}
+
+
+.page-heading .text-content h2 {
+	color: #fff;
+	font-size: 62px;
+	text-transform: uppercase;
+	letter-spacing: 5px;
+}
+
+.container .maps h1 p{
+    margin-left: 10vw;
+}
+
+.left {
+    margin-left: 2vw;
+    border: 3px rgb(179, 176, 176);
+}
+
+.right{
+    margin: 3vw;
+}
+
+h2{
+    color: rgb(71, 71, 160);
+}
+
+.svg-contact{
+    height: 36px;
+    transition: 0.7s;
+}
+
+.svg-contact:hover{
+    border:1px #070707;
+    transform: scale(1.2);
+}
+
+.img-contact{
+    margin: 10px 20px;
+    
+}
+
+.empty{
+    display: flex;
+}
+
+.input{
+    margin: 2vh 5vw;
+    padding: 1vh 2vw;
+    width: 55vw;
+    transition: 0.7s;
+}
+
+.input:hover{
+    background-color: #ebe9e9;
+}
+
+button{
+    margin-left: 40vw;
+    margin-bottom: 3vh;
+    height: 5vh;
+    width: 10vw;
+    background-color:#f33f3f;
+    border-radius: 5px;
+    border:none;
+    transition: 1s;
+}
+
+button h3{
+    word-spacing: 5px;
+    color: white;
+}
+
+button:hover{
+    background-color:black;
+}
+
+.call{
+    display: flex;
+    justify-content: space-evenly;
+    flex-direction: column;
+    background: #000000;
+    height: 50vh;
+    width: 25vw;
+    color: white;
+    border-radius: 15px;
+}
+
+#call-logo{
+    width: 13vw;
+    margin-left: 5.5vw;
+    justify-self: center;
+}
+
+.callbut{
+    background: greenyellow;
+    width: 18vw;
+    align-self: center;
+    border-radius: 7px; 
+    padding: 5px;
+    transition: 0.8s;
+}
+
+.callbut:hover{
+    background: rgb(98, 200, 72);
+    animation: shake-img 0.8s infinite;
+}
+
+.svg-call{
+    height: 36px;
+}
+
+.calling{
+    text-decoration: none;
+}
+
+@keyframes shake-img{
+    /* 0%{
+        transform: rotate(0deg);
+    } */
+    25%{
+        transform: rotate(6deg);
+    }
+    /* 50%{
+        transform: rotate(0deg);
+    } */
+    75%{
+        transform: rotate(-6deg);
+    }100%{
+        transform: rotate(0deg);
+    }
+}
+
+
+/**
+
+*The DG Computer Classes project, including all associated code and materials, has been developed by Devendra R. Gonde.
+*All rights are reserved for this project.
+*This comprehensive project aims to revolutionize computer education by providing high-quality learning resources and
+ interactive experiences to students at DG Computer Classes. It encompasses a range of educational materials,
+ including [describe the types of materials, such as lesson plans, tutorials, software tools, etc.], designed to
+ empower learners with the knowledge and skills needed to excel in the field of computer science.
+*For inquiries or support related to the DG Computer Classes project, please contact:
+*Name: Devendra R. Gonde
+*Email: devendragonde1221@gmail.com
+
+*/

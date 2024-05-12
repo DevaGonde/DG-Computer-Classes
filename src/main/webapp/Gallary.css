@@ -1,0 +1,69 @@
+@charset "UTF-8";
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Slab&family=Style+Script&display=swap');
+/* font-family: 'Roboto Slab', serif;
+font-family: 'Style Script', cursive; */
+.row {
+    display: flex;
+    flex-wrap: wrap;
+    padding: 0 4px;
+  }
+  
+  /* Create four equal columns that sits next to each other */
+  .column {
+    flex: 25%;
+    max-width: 25%;
+    padding: 0 4px;
+    margin-right: 35px;
+    margin-left: 31px;
+  }
+  
+  .column img {
+    margin-top: 1px;
+    vertical-align: middle;
+    width: 120%;
+    border: 5px solid rgb(73, 159, 159);
+  }
+  
+  .column img:hover {
+    transition-duration: 0.8s;
+    border: 5px solid rgb(1, 252, 252);
+    transform:scale(1.2);
+  }
+  
+  p{
+    margin-top: 20px ;
+    margin-bottom: 20px;
+    color: white;
+    text-shadow: 5px 5px 5px black;
+  }
+  
+  /* Responsive layout - makes a two column-layout instead of four columns */
+  @media screen and (max-width: 800px) {
+    .column {
+      flex: 50%;
+      max-width: 50vw;
+    }
+  }
+  
+  /* Responsive layout - makes the two columns stack on top of each other instead of next to each other */
+  @media screen and (max-width: 600px) {
+    .column {
+      flex: 100%;
+      max-width: 100%;
+    }
+  }
+  
+  
+/**
+
+*The DG Computer Classes project, including all associated code and materials, has been developed by Devendra R. Gonde.
+*All rights are reserved for this project.
+*This comprehensive project aims to revolutionize computer education by providing high-quality learning resources and
+ interactive experiences to students at DG Computer Classes. It encompasses a range of educational materials,
+ including [describe the types of materials, such as lesson plans, tutorials, software tools, etc.], designed to
+ empower learners with the knowledge and skills needed to excel in the field of computer science.
+*For inquiries or support related to the DG Computer Classes project, please contact:
+*Name: Devendra R. Gonde
+*Email: devendragonde1221@gmail.com
+
+*/

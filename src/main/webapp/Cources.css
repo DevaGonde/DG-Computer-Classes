@@ -1,0 +1,152 @@
+@charset "UTF-8";
+@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@500&display=swap');
+@import
+	url('https://fonts.googleapis.com/css2?family=Roboto+Slab&family=Style+Script&display=swap')
+	;
+/* font-family: 'Roboto Slab', serif;
+font-family: 'Style Script', cursive; */
+.basic {
+	margin: 5vh;
+	height: 210vh;
+	width: calc(100vw-10vh);
+	background: #504848;
+	border-radius: 10px;
+	opacity: 0.8;
+}
+
+.programming {
+	margin: 5vh;
+	height: 220vh;
+	width: calc(100vw-10vh);
+	background: #504848;
+	border-radius: 10px;
+	opacity: 0.8;
+}
+
+.accounting {
+	margin: 5vh;
+	height: 195vh;
+	width: calc(100vw-10vh);
+	background: #504848;
+	border-radius: 10px;
+	opacity: 0.8;
+}
+
+.designing {
+	margin: 5vh;
+	height: 200vh;
+	width: calc(100vw-10vh);
+	background: #504848;
+	border-radius: 10px;
+	opacity: 0.8;
+}
+
+.red {
+	color: #ff0000b6;
+}
+
+.yellow {
+	color: #f6ff00;
+}
+
+p {
+	margin: 3vh 3vw;
+	color: white;
+	font-family: 'Oswald', sans-serif;
+}
+
+.card {
+	margin: 0 2vw;
+	height: 52vh;
+	width: 90vw;
+	background: black;
+	display: flex;
+	border-radius: 7px;
+	/* border: 2px solid red; */
+}
+
+.iimg {
+	border: 3px solid none;
+	margin: 20px 2.25vw;
+	border-radius: 7px;
+	border: 3px solid black;
+}
+
+.iimg:hover {
+	transition-duration: 0.5s;
+	border: 3px solid none;
+	transform: scale(1.1);
+}
+
+.underline {
+	text-decoration: underline;
+}
+
+.hyper-text {
+	font-weight: bold;
+}
+
+.hyper-text:hover {
+	color: #ff0000;
+	transition-duration: 0.5s;
+	transform: scale(1.2);
+}
+
+hr {
+	margin-top: 2px;
+}
+
+.citem {
+	border: 3px solid black;
+}
+
+.citem:hover {
+	border: 3px solid red;
+	/* animation: border 1s infinite; */
+}
+
+@keyframes border { 0%{
+	border: 3px black;
+}
+12%
+{
+border-top: 3px red;
+}
+25%
+{
+border-top:3px red;
+border-right:3px red;
+}
+37%
+{
+border-top: 3px red;
+border-right:3px red;
+border-bottom:3px red;
+}
+50%
+{
+border:3px red;
+}
+61%
+{
+border-left:3px red;
+border-right:3px red;
+border-bottom:3px red;
+}
+73%
+{
+border-left:3px red;
+border-bottom: 3px red;
+}
+85%
+{
+border-left:3px red;
+}
+100%
+{
+border
+:
+3px
+black;
+}
+}

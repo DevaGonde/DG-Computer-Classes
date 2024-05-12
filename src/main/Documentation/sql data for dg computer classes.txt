@@ -1,0 +1,45 @@
+insert into products values(1,"CD For Basic Computer courses","basic.jpg","OVERALL, A BASIC COMPUTER COURSE IS DESIGNED TO PROVIDE STUDENTS WITH THE FOUNDATIONAL
+                        KNOWLEDGE AND SKILLS NEEDED TO USE A COMPUTER EFFECTIVELY AND SAFELY.<br><br>
+                        Courses included <br>
+                        1.MS-CIT <br>
+                        2.CCC <br>
+                        3.MS-Office <br>
+                        4.Advance Excel <br>",25000,18800);
+insert into products values(2,"CD For Programming courses ","coding.png","  PROGRAMMING LANGUAGE COURSES ARE DESIGNED TO TEACH STUDENTS HOW TO WRITE CODE TO CREATE SOFTWARE APPLICATIONS, WEBSITES, AND OTHER DIGITAL PRODUCTS. <br><br>
+                        Courses included <br>
+                        1.C <br>
+                        2.C++ <br>
+                        3.Python <br>
+                        4.Java<br>",28000,22800);
+insert into products values(3,"CD For Accounting courses","accounting.png","ACCOUNTING COURSES ARE DESIGNED TO TEACH STUDENTS THE FUNDAMENTAL PRINCIPLES OF FINANCIAL ACCOUNTING AND HOW TO USE ACCOUNTING TOOLS AND TECHNIQUES TO ANALYZE AND REPORT FINANCIAL DATA. <br><br>
+                        Courses included <br>
+                        1.Quick Tally<br>
+                        2.Smart Tally<br>
+                        3.Professional Tally<br>
+                        4.Diploma Tally <br>",30000,17800);
+insert into products values(4,"CD For Designing courses","desgining.png","  COMPUTER DESIGNING COURSES ARE DESIGNED TO TEACH STUDENTS HOW TO USE COMPUTER SOFTWARE TO CREATE DIGITAL DESIGNS FOR A VARIETY OF APPLICATIONS, INCLUDING GRAPHIC DESIGN, WEB DESIGN, AND PRODUCT DESIGN. <br><br>
+                            Courses included <br>
+                            1.Photoshop<br>
+                            2.Auto-Cad<br>
+                            3.Coral-Draw<br>
+                            4.Desktop-Publishing <br>",25000,12800);
+insert into products values(5,"High Speed Pendrive","pendrive.png","  Looking for a quick and easy way to store and transfer your 
+                        important files? Look no further than our high-quality pendrive! With its compact size and large 
+                        storage capacity",25000,12800);
+insert into products values(6,"Computer Gaming mouse","mouse.jpeg","   Upgrade your computer experience with our premium mouse! 
+                        Designed for comfort and precision, this sleek and stylish device will take your productivity to 
+                        the next level <br>",2500,1280);
+insert into products values(7,"Computer keyboard","keybord.jpg","Take your typing to the next level with our high-quality 
+                        keyboard! Whether you’re a professional writer or a gamer, our keyboard is the perfect tool for 
+                        fast and accurate typing.",3500,1580);
+insert into products values(8,"antivirus Protection","antivirus.png","  Protect your computer and personal information with our 
+                        powerful antivirus software! Our cutting-edge technology detects and eliminates all types of 
+                        malware, viruses, and other online threats to keep your computer safe and secure.", 2000,1500);
+insert into products values(9,"Screen cleaning Kit","Cleaning kit.jpg","   Clean and protect your electronic devices with our top-quality 
+                        screen cleaning kit! Our specially formulated solution gently removes dirt, smudges, and 
+                        fingerprints from your screens without damaging them.", 500,350);
+
+
+
+
+
